@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    font-size: 36pt;
+}
+#num_usuario{
+    height: auto;
+    width: 500px;
+    background-color: yellow;
+}
+#botao{
+    height: auto;
+    width: 500px;
+    background-color: #1d2d3d;
+    color: white;
+    border: none;
+    font-size: 36pt;
+}
+#teste{
+    font-size: 36pt;
+    height: auto;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    color: white;
+
+}
